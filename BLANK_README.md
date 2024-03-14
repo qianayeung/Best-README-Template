@@ -27,7 +27,8 @@
 <br />
 <div align="centre">
   <a href="https://github.com/github_username/repo_name">
-    <img src="[images/logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fthenounproject.com%2Fbrowse%2Ficons%2Fterm%2Fopen-file%2F&psig=AOvVaw1O5AKTl137rg8Ug3QiLoV_&ust=1710544511580000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCD8YTx9IQDFQAAAAAdAAAAABAJ)" alt="Logo" width="80" height="80">
+    <img src="[embedded file icon]!(https://github.com/qianayeung/Best-README-Template/assets/141664041/6c809ef4-ef43-4a22-88cc-99e2e1261826)
+ alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="centre">my-SQL-portfolio</h3>
@@ -98,7 +99,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#my-SQL-portfolio">back to top</a>)</p>
 
 
 
