@@ -27,7 +27,7 @@
 <br />
 <div align="centre">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="[images/logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fthenounproject.com%2Fbrowse%2Ficons%2Fterm%2Fopen-file%2F&psig=AOvVaw1O5AKTl137rg8Ug3QiLoV_&ust=1710544511580000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCD8YTx9IQDFQAAAAAdAAAAABAJ)" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="centre">my-SQL-portfolio</h3>
